@@ -1,0 +1,7 @@
+{
+"FLAVOR": "staging",
+"LABEL": "Staging",
+"API_URL": "https://api.staging.example.com
+",
+"FEATURE_ENABLED": "true"
+}
