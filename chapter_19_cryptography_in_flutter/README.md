@@ -2,7 +2,7 @@
 
 **Chapter 19 — Flutter Engineering**
 
-A faithful, UI-driven demonstration of all cryptography code examples from Chapter 19: Cryptography in Flutter by Majid Hajian.
+A UI-driven demonstration of all cryptography code examples from Chapter 19: Cryptography in Flutter by Majid Hajian.
 
 ---
 
@@ -15,7 +15,6 @@ This demo preserves the exact code from the chapter:
 - ✅ Run encryption & hashing examples in a real Flutter app
 - ✅ Display results on screen for easy learning
 
-**No improvements. No refactors. No renaming.**  
 Only a minimal UI wrapper to execute the code via buttons.
 
 ---
